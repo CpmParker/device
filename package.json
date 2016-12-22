@@ -1,0 +1,20 @@
+{  
+  "name":    "devicespot",  
+  "version": "0.0.2",  
+  "author": "18221722954",
+  "main": "src/device.js",
+  "directories": {
+    "example": "device"
+  },
+  "scripts": {
+    "test": "node src/device.js"
+  },
+  "keywords": [
+    "device"
+  ],
+  "repository" :  
+  { 
+      "type" : "git",
+      "url" : "https://github.com/CpmParker/device.git"  
+  }  
+}  
